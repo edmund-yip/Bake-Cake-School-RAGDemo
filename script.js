@@ -9,7 +9,7 @@
 
 const CONFIG = {
   // e.g. "https://your-n8n-host/webhook/8c0c6a15-3665-41f0-bb60-f94e11fac572"
-  WEBHOOK_URL: "",
+  WEBHOOK_URL: "https://edmundcmyip.app.n8n.cloud/webhook/8c0c6a15-3665-41f0-bb60-f94e11fac572",
   // n8n usually returns { output: "..." }. Adjust if your workflow differs.
   RESPONSE_KEYS: ["output", "text", "answer", "response", "message"],
 };
